@@ -211,3 +211,8 @@ TBD
  <li> The diversity scores are not normalised each of the diversity rankers scores paraphrases differently </li>
  <li> Some command style input phrases generate less adequate paraphrases</li>
 </ul>
+
+
+### Try this too
+
+https://huggingface.co/tuner007/pegasus_paraphrase?text=Can+you+recommed+some+upscale+restaurants+in+Newyork%3F
